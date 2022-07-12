@@ -19,7 +19,7 @@
 }
 ``` -->
 
-<img src="https://badges.pufler.dev/visits/arielfavaro/arielfavaro">
+<img src="https://another-github-badges.ari.dev.br/badges/visits/arielfavaro/arielfavaro?v=2">
 
 <br>
 
